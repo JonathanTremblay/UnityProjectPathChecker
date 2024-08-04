@@ -1,7 +1,7 @@
 {
   "name": "ca.tim-cstj.project-path-checker",
   "displayName": "Project Path Checker",
-  "version": "0.9.0",
+  "version": "0.9.1",
   "unity": "2022.3",
   "description": "This Editor script checks the project's location for optimal Unity operation.",
   "documentationUrl": "https://github.com/JonathanTremblay/UnityProjectPathChecker#readme",
@@ -10,9 +10,9 @@
   "type": "tool",
   "keywords": [
     "Project",
-	"Path",
-	"Checker",
-	"Check",
+    "Path",
+    "Checker",
+    "Check",
     "Editor",
     "Tool",
     "Mac",

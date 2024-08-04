@@ -31,7 +31,7 @@ This Editor script checks the project's location for optimal Unity operation.
 
 ## Compatibility
 
-* Tested on Windows and MacOS with Unity version 2022.3.17 (LTS).
+* Tested on Windows and MacOS with Unity version 2022.3.39 (LTS).
 
 ## Known Issues
 
@@ -52,6 +52,9 @@ Project Repository: https://github.com/JonathanTremblay/UnityProjectPathChecker
 
 ## Version History
 
+* 0.9.1
+    * Translated code nomenclature. 
+	* Improved XML doc.
 * 0.9.0
     * First public version.
 
